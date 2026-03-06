@@ -1,0 +1,14 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "context7_demo",
+  "description": "test demo",
+  "folders": ["docs", "packages"],
+  "branch": "main",
+  "excludeFolders": ["src"],
+  "excludeFiles": ["CHANGELOG.md"],
+  "Rules": [
+    "Use async APIs only",
+    "Do not import internal modules",
+    "Always initialize client before request"
+  ]
+}
