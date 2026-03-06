@@ -1,16 +1,4 @@
 {
-  "$schema": "https://context7.com/schema/context7.json",
   "url": "https://context7.com/codepgq/context7_demo",
-  "public_key": "pk_w2NCZwgYJXCjzYQRGzsUt",
-  "projectTitle": "context7_demo",
-  "description": "test demo",
-  "folders": ["docs", "packages"],
-  "branch": "main",
-  "excludeFolders": ["src"],
-  "excludeFiles": ["CHANGELOG.md"],
-  "Rules": [
-    "Use async APIs only",
-    "Do not import internal modules",
-    "Always initialize client before request"
-  ]
+  "public_key": "pk_w2NCZwgYJXCjzYQRGzsUt"
 }
